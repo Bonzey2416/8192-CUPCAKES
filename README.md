@@ -1,6 +1,6 @@
-Cupcakes version of [2048](http://gabrielecirulli.github.io/2048/) game
+Cupcakes version of [8192](http://www.csie.ntu.edu.tw/~b01902112/8192/) game
 ========================================================================
 
-Play here: http://git.io/cupcakes
+Play here: https://glukascewic1.github.io/8192-CUPCAKES/
 
-[![2048 CUPCAKES](http://oi62.tinypic.com/9u7rkk.jpg)](http://git.io/cupcakes)
+[![8192 CUPCAKES](http://oi62.tinypic.com/9u7rkk.jpg)](https://glukascewic1.github.io/8192-CUPCAKES)
